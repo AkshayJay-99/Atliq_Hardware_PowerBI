@@ -12,5 +12,7 @@ The CEO of Atliq Hardware, an electronic appliance supplier in India wants to kn
 3) From the cleaned data PowerBI visualizations were generated
 
 ## Schema:-
+![image](https://github.com/AkshayJay-99/Atliq_Hardware_PowerBI/assets/89893927/43e6a359-b895-4fd6-95d2-3ac23300140c)
+
 
 ## Report:-
