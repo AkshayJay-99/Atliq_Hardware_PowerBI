@@ -16,3 +16,11 @@ The CEO of Atliq Hardware, an electronic appliance supplier in India wants to kn
 
 
 ## Report:-
+### Dashboard containing total revenue and sales quantity from 2017 to 2020 
+![image](https://github.com/AkshayJay-99/Atliq_Hardware_PowerBI/assets/89893927/2d304be1-d3e7-4602-83d9-728c1837d0bb)
+
+### Interactive Dashboard showing report for Delhi location for the year 2019
+![image](https://github.com/AkshayJay-99/Atliq_Hardware_PowerBI/assets/89893927/e8f6ef84-861c-496d-a0fb-142e78bdae8d)
+
+Special thanks to <b>codebasics youtube channel</b> for the data used in this project and guidance for the same
+
