@@ -5,10 +5,10 @@ The CEO of Atliq Hardware, an electronic appliance supplier in India wants to kn
 ## Steps Involved:-
 1) Data was exported from the MySQL database "db_dump.sql" to PowerBI Desktop.
 2) Data was cleaned using PowerQuery
-&nbsp; a) Garbage Values like 0 and -1 were removed from sales_amount in the transactions table in the sales schema. 
-&nbsp; b) A norm_sales_amount column was added to trasaction table. The new column had all USD values in sales_amount converted to INR for 
-&nbsp; consistency
-&nbsp; c)Currency column in transactions table was cleaned and removed of duplicate data
+ a) Garbage Values like 0 and -1 were removed from sales_amount in the transactions table in the sales schema. 
+ b) A norm_sales_amount column was added to trasaction table. The new column had all USD values in sales_amount converted to INR for 
+    consistency
+ c)Currency column in transactions table was cleaned and removed of duplicate data
 3) From the cleaned data PowerBI visualizations were generated
 
 ## Schema:-
